@@ -102,3 +102,4 @@ int main(){
 	obj.check();
 	return 0;
 }
+
